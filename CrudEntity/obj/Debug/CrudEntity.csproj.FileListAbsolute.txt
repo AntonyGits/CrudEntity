@@ -1,0 +1,15 @@
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\bin\Debug\CrudEntity.exe.config
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\bin\Debug\CrudEntity.exe
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\bin\Debug\CrudEntity.pdb
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\bin\Debug\MetroFramework.dll
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\bin\Debug\MetroFramework.Fonts.dll
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\obj\Debug\CrudEntity.csprojResolveAssemblyReference.cache
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\obj\Debug\CrudEntity.Form1.resources
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\obj\Debug\CrudEntity.Properties.Resources.resources
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\obj\Debug\CrudEntity.csproj.GenerateResource.Cache
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\obj\Debug\CrudEntity.exe
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\obj\Debug\CrudEntity.pdb
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\bin\Debug\EntityFramework.dll
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\bin\Debug\EntityFramework.xml
+c:\users\anthony\documents\visual studio 2015\Projects\CrudEntity\CrudEntity\bin\Debug\EntityFramework.SqlServer.xml
